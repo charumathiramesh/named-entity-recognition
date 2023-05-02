@@ -37,10 +37,11 @@ We build a build a model using Input, Embedding, Bidirectional LSTM, Spatial Dro
 We compile the model and fit the train sets and validation sets,We plot the necessary graphs for analysis,A custom prediction is done to test the model manually.
 
 ## PROGRAM
+```
 NAME : CHARUMATHI R
 REF NO : 212222240021
 
-```
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
