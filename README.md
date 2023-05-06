@@ -10,6 +10,7 @@ The aim of this experiment is to develop an LSTM-based neural network model usin
 ![name1](https://user-images.githubusercontent.com/120204455/235588317-0d4e113a-a500-45b1-a716-3552c529827b.png)
 
 ## Neural Network Model
+![233554063-e6b9d735-dba1-4d2b-ac4a-73eec5311d52](https://user-images.githubusercontent.com/120204455/236623493-93dc29ae-f6e9-44d9-9bd2-c5898d1e54d2.png)
 
 
 
